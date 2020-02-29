@@ -12,6 +12,7 @@ int main()
         }
         printf("\n\n");
     }
+    //testline 
     for (i = 0; i < rows; i++) /*������� �����*/
     {
         for (j = 0; j < rows - (i + 1); j++) {
